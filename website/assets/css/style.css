@@ -13,3 +13,48 @@ body > .container-fluid {
     background-position: bottom;
     background-size: cover;
 }
+
+
+.card-title{
+    font-size: 35px;
+}
+
+.card-title-grey{
+    color: gray;
+    margin-left: 296px;
+    margin-top: -49px;
+    font-size: 35px;
+}
+.card-text{
+    width: 600px;
+}
+
+.style-img{
+    margin-left: 618px;
+    margin-top: -142px;
+    width: 150px;
+    height: 150px;
+    border-radius: 75px;
+}
+.card-title-services{
+    margin-left: 178px;
+    font-size: 35px;
+}
+.card-title-grey-services{
+    color: gray;
+    margin-left: 511px;
+    margin-top: -48px;
+    font-size: 35px;
+}
+.card-text-services{
+    margin-left: 180px;
+    width: 600px;
+}
+
+.style-img-services{
+    margin-left: 41px;
+    margin-top: -177px;
+    width: 150px;
+    height: 150px;
+    border-radius: 75px;
+}
