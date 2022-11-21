@@ -1,21 +1,13 @@
-body{
-    background: #BDBDBD;
-    margin: 0px;
-}
-
-body > .container-fluid {
-    padding: 0px;
-}
+/* 
 
 .tagline-bg {
     height: 550px;
     background-image: url("../img/bg.jpg");
     background-position: bottom;
     background-size: cover;
-}
+} */
 
-
-.card-title{
+/* .card-title{
     font-size: 35px;
 }
 
@@ -57,4 +49,4 @@ body > .container-fluid {
     width: 150px;
     height: 150px;
     border-radius: 75px;
-}
+} */
